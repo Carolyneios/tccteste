@@ -598,7 +598,7 @@ footer a,footer ol {
     }
     
 
-    .level{
+   .level{
         width: 20%;
         position: fixed;
         display: flex;
@@ -607,15 +607,19 @@ footer a,footer ol {
     }
 
     .levela{
-        margin-top: 20px;
+        margin-top: 30px;
         width: 50%;
         margin-right: 20px;
     }
 
     .entrar{
-        margin-top: 10px;
+        margin-top: 20px;
         
     }
+    .direita{
+        margin-right: 40px;
+    }
+
 
     .capa{
         width: 100%;
